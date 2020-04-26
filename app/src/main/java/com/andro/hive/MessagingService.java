@@ -1,4 +1,4 @@
-package com.cheezycode.techiedesi;
+package com.andro.hive;
 
 import android.app.Notification;
 import android.app.NotificationManager;

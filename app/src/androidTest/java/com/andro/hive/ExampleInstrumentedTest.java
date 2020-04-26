@@ -1,4 +1,4 @@
-package com.cheezycode.techiedesi;
+package com.andro.hive;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
