@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "800938633946",
+    "firebase_url": "https://mddsdsdsdsd.firebaseio.com",
+    "project_id": "mddsdsdsdsd",
+    "storage_bucket": "mddsdsdsdsd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800938633946:android:dbbeb0f3efc4d23dd493e3",
+        "android_client_info": {
+          "package_name": "com.cheezycode.techiedesi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800938633946-dkvn7vmvdb9qddg34fa53sec9hdtfb6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXXj-kZnCEUWJ_5C71P_OaNsmS44ZslMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800938633946-dkvn7vmvdb9qddg34fa53sec9hdtfb6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

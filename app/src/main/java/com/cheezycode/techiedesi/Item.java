@@ -1,5 +1,5 @@
 
-package com.andro.hive;
+package com.cheezycode.techiedesi;
 
 import java.util.List;
 import com.google.gson.annotations.Expose;

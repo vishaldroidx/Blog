@@ -1,5 +1,5 @@
 
-package com.andro.hive;
+package com.cheezycode.techiedesi;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;

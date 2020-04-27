@@ -1,4 +1,4 @@
-package com.andro.hive;
+package com.cheezycode.techiedesi;
 
 import org.junit.Test;
 
